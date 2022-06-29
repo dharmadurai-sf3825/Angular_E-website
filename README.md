@@ -1,2 +1,2 @@
-# Angular_E-website
+# Bootstrap Final Assigment
 This is Develop of shopping application
